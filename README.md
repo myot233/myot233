@@ -1,5 +1,5 @@
-### Hi this is gsycl2004 👋
+### Hi this is myot233👋
 ### I’m currently learning C# and kotlin
 
-![code](https://github-readme-stats.vercel.app/api/top-langs/?username=gsycl2004&layout=compact&hide_border=true)
+![code](https://github-readme-stats.vercel.app/api/top-langs/?username=myot233&layout=compact&hide_border=true)
 
