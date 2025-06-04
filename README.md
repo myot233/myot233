@@ -21,7 +21,7 @@
 ![Followers](https://img.shields.io/github/followers/myot233?label=GitHub%20Followers&style=flat-square)
 ![Stars](https://img.shields.io/github/stars/myot233?label=Profile%20Stars&style=flat-square)
 ![Languages](https://img.shields.io/github/languages/top/myot233/tinyauth?style=flat-square) <!-- 替换 your-repo 为你的代表项目仓库名 -->
-[![Gmail Badge](https://img.shields.io/badge/-your.email@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:your.email@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-your.email@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gsycl2004@gmail.com)](mailto:your.email@gmail.com)
 
 ---
 
