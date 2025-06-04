@@ -20,7 +20,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=myot233&color=blueviolet)
 ![Followers](https://img.shields.io/github/followers/myot233?label=GitHub%20Followers&style=flat-square)
 ![Stars](https://img.shields.io/github/stars/myot233?label=Profile%20Stars&style=flat-square)
-![Languages](https://img.shields.io/github/languages/top/myot233/your-repo?style=flat-square) <!-- 替换 your-repo 为你的代表项目仓库名 -->
+![Languages](https://img.shields.io/github/languages/top/myot233/tinyauth?style=flat-square) <!-- 替换 your-repo 为你的代表项目仓库名 -->
 [![Gmail Badge](https://img.shields.io/badge/-your.email@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:your.email@gmail.com)
 
 ---
@@ -39,15 +39,6 @@
 ---
 
 
-
-## 🌐 联系我
-
-- 📫 邮箱：[your.email@gmail.com]
-- 💼 LinkedIn：[LinkedIn 个人页]
-- 🐦 Twitter：[你的X/Twitter]
-- 🌍 个人网站：[你的个人主页]
-
----
 
 感谢你的关注与访问！✨  
 欢迎交流合作，也欢迎 Star 我的项目！
